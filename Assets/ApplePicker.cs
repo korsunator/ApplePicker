@@ -13,7 +13,7 @@ public class ApplePicker : MonoBehaviour {
 
 	
 	void Start () {
-        basketList = new List<GameObject>;
+        basketList = new List<GameObject>();
 		for(int i = 0; i < numBaskets; i++)
         {
             GameObject tBasketGO = Instantiate<GameObject>(basketPrefab);
