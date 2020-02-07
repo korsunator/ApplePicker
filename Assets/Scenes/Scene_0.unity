@@ -300,6 +300,27 @@ Prefab:
       propertyPath: leftAndRightEdge
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 114564832386618800, guid: 885ebd6c5367e3a4e9458846a78cb89c,
+        type: 2}
+      propertyPath: speed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 114564832386618800, guid: 885ebd6c5367e3a4e9458846a78cb89c,
+        type: 2}
+      propertyPath: chanceToChangeDirections
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 114564832386618800, guid: 885ebd6c5367e3a4e9458846a78cb89c,
+        type: 2}
+      propertyPath: applePrefab
+      value: 
+      objectReference: {fileID: 1150734695580528, guid: df4885ce3bb774d4093045ac401c959b,
+        type: 2}
+    - target: {fileID: 54311031999535482, guid: 885ebd6c5367e3a4e9458846a78cb89c,
+        type: 2}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 885ebd6c5367e3a4e9458846a78cb89c, type: 2}
   m_IsPrefabAsset: 0
